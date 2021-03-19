@@ -1,0 +1,7 @@
+form{padding: 5px; margin:0px;}
+      table{background-color: rgb(42, 165, 165);
+      border: 5px solid rgb(209, 61, 61);
+      margin-left:auto;
+      margin-right:auto;}
+      hr{border: 1px solid red;}
+      input{border-radius="5px"}
